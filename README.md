@@ -15,10 +15,16 @@ Este proyecto aborda la pérdida de bosques nativos en Argentina debido a la def
 
 - Titular: Ing. Federico Ferraro
 - MEP: Ing. Dario Cordoba
+- 
 
-## Fecha de entrega
+## Estructura del Proyecto
 
-27/04/2024
+El proyecto está organizado en las siguientes carpetas:
+
+- **src**: Contiene el código fuente del proyecto.
+- **tests**: Contiene las pruebas y casos de prueba para asegurar la funcionalidad del proyecto.
+- **docs**: Contiene la documentación del proyecto, incluyendo este archivo `README.md`.
+
 
 ## Índice
 
