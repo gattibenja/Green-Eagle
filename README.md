@@ -15,7 +15,7 @@ Este proyecto aborda la pérdida de bosques nativos en Argentina debido a la def
 
 - Titular: Ing. Federico Ferraro
 - MEP: Ing. Dario Cordoba
-- 
+- MEP: Ing. Luciano Michalik
 
 ## Estructura del Proyecto
 
